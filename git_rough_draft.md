@@ -8,6 +8,8 @@
   - See who introduced an issue and when
   - and more.
 
+> Add Picture of an empty Program.cs file and then a modified one next to it
+
 <br>
 
 ## Local Version Control Systems
