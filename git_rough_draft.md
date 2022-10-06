@@ -16,7 +16,7 @@
 
 ![local_VCS](imgs/Local_Version_Control_Systems.png)
 
-- At first, many people’s version-control method of choice was to copy files into another directory (perhaps a time-stamped directory, if they’re clever).This approach was very common because of its simplicity, but it was alsoincredibly error prone.
+- At first, many people’s version-control method of choice was to copy files into another directory (perhaps a time-stamped directory, if they’re clever).This approach was very common because of its simplicity, but it was also incredibly error prone.
 - Also collaboration was INCREDIBLY difficult and was done rarely
 
 <br>
